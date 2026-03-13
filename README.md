@@ -30,7 +30,7 @@ ArvyaX/
 
 ## Prerequisites
 
-- Python 3.11+
+- Python 3.11+   => use python 3.11.9 to correctly run the project
 - Node.js 18+
 - A [Neon DB](https://neon.tech) PostgreSQL database
 - A [Groq](https://console.groq.com) API key
