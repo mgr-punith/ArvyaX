@@ -74,6 +74,9 @@ this is very important if you are using online db service.
 
 **Start the backend:**
 ```bash
+source venv/bin/activate        # Mac/Linux
+venv\Scripts\activate           # Windows
+
 uvicorn app.main:app --reload --port 8000
 ```
 
